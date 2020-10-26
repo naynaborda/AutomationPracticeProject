@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="84475" started-at="2020-10-26T15:56:50 GMT" finished-at="2020-10-26T15:58:15 GMT">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="84475" started-at="2020-10-26T15:56:50 GMT" finished-at="2020-10-26T15:58:15 GMT">
+      <class name="Automation.Practice.TestSuits">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:Automation.Practice.TestSuits@2d928643]" name="openBrowser" is-config="true" duration-ms="15781" started-at="2020-10-26T15:56:50 GMT" finished-at="2020-10-26T15:57:06 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="addToCartProduct()[pri:0, instance:Automation.Practice.TestSuits@2d928643]" name="addToCartProduct" duration-ms="5256" started-at="2020-10-26T15:57:06 GMT" finished-at="2020-10-26T15:57:11 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartProduct -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Automation.Practice.TestSuits@2d928643]" name="closeBrowser" is-config="true" duration-ms="733" started-at="2020-10-26T15:57:11 GMT" finished-at="2020-10-26T15:57:12 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:Automation.Practice.TestSuits@2d928643]" name="openBrowser" is-config="true" duration-ms="10473" started-at="2020-10-26T15:57:12 GMT" finished-at="2020-10-26T15:57:22 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="loginSuccessfully()[pri:0, instance:Automation.Practice.TestSuits@2d928643]" name="loginSuccessfully" duration-ms="16546" started-at="2020-10-26T15:57:22 GMT" finished-at="2020-10-26T15:57:39 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSuccessfully -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Automation.Practice.TestSuits@2d928643]" name="closeBrowser" is-config="true" duration-ms="696" started-at="2020-10-26T15:57:39 GMT" finished-at="2020-10-26T15:57:40 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:Automation.Practice.TestSuits@2d928643]" name="openBrowser" is-config="true" duration-ms="9596" started-at="2020-10-26T15:57:40 GMT" finished-at="2020-10-26T15:57:49 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="registerSuccessfully()[pri:0, instance:Automation.Practice.TestSuits@2d928643]" name="registerSuccessfully" duration-ms="7067" started-at="2020-10-26T15:57:49 GMT" finished-at="2020-10-26T15:57:56 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerSuccessfully -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Automation.Practice.TestSuits@2d928643]" name="closeBrowser" is-config="true" duration-ms="725" started-at="2020-10-26T15:57:56 GMT" finished-at="2020-10-26T15:57:57 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:Automation.Practice.TestSuits@2d928643]" name="openBrowser" is-config="true" duration-ms="10393" started-at="2020-10-26T15:57:57 GMT" finished-at="2020-10-26T15:58:07 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="registerUnSuccessfully()[pri:0, instance:Automation.Practice.TestSuits@2d928643]" name="registerUnSuccessfully" duration-ms="6404" started-at="2020-10-26T15:58:07 GMT" finished-at="2020-10-26T15:58:14 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUnSuccessfully -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Automation.Practice.TestSuits@2d928643]" name="closeBrowser" is-config="true" duration-ms="751" started-at="2020-10-26T15:58:14 GMT" finished-at="2020-10-26T15:58:15 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Automation.Practice.TestSuits -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
